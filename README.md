@@ -9,4 +9,4 @@
 	<h1>salom dunyo</h1>
 </body>
 </html>
-	    # front
+	
