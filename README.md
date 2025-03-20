@@ -6,10 +6,13 @@
 	<tite>Document</title>
 </head>
 <body>
+	<button>tugma</button>
 	<span>salom bu olovlar</span>
-	<ol type="i">
+	<ol type="1">
  		<li>list</li>
    		<li>list</li>
+		<li>list</li>
+		<li>list</li>
 	</ol>
  	
 		
