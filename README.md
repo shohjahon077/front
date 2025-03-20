@@ -6,7 +6,13 @@
 	<tite>Document</title>
 </head>
 <body>
-	<h1>salom dunyo</h1>
+	<span>salom bu olovlar</span>
+	<ol type="i">
+ 		<li>list</li>
+   		<li>list</li>
+	</ol>
+ 	
+		
 </body>
 </html>
 	
