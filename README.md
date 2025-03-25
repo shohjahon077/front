@@ -4,33 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        table {
-            border: 2px solid ;
-            border: collapse;
-            width: 2%;
-        }
-        i {
-            border: 0.1px solid;
-            
-            width: 0.1%;
-        }
-        header {
-            border: 1px solid;
-            border: collapse;
-            width: 1%;
-        }
-        th,td {
-            border: 1px solid ;
-            padding: 2px;
-            text-align: center;
-        }
-        ins {
-            background: ;
-            color: blue;
-        }
-
-    </style>
+   
 </head>
 <body>
     <h1>About</h1>
